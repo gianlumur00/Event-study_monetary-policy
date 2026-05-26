@@ -1,6 +1,6 @@
 # Event Study: Monetary Policy Announcements
 
-This project implements an event study in Python to analyze abnormal stock returns of European banks around monetary policy announcements.
+This project implements an event study in Python to analyze abnormal stock returns around monetary policy announcements. The script computes log returns, estimates a market model using the STOXX Europe 600 index, calculates abnormal and cumulative abnormal returns (AR and CAR), performs significance tests, and exports the results to Excel.
 
 ## Methodology
 - Log returns computation
